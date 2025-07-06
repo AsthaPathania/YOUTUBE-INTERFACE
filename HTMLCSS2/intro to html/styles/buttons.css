@@ -1,0 +1,269 @@
+          
+    .subscribe-button{
+        background-color:rgb(200, 0, 0);
+         color:white; 
+         border:none;  
+         height:36px; 
+         width:105px;    
+        border-radius:3px;
+        cursor:pointer;
+        transition:opacity 0.1s;
+            }
+        
+        .subscribe-button:hover{
+          opacity:0.7;
+        }
+        
+        .subscribe-button:active{
+            opacity:0.5;
+        }
+        
+            .join-button{vertical-align:top;
+                background-color:white;
+                border-color:rgba(61, 61, 180, 0.927);
+                border-style:solid;
+                border-width:1px;
+                color:rgb(75, 75, 180);
+                height:30px;
+                width:60px;
+                cursor:hand;
+                margin-left:8px;
+                transition:background-color 0.1s, color 0.1s;
+        
+            }
+        
+            .join-button:hover{
+                background-color:rgba(61, 61, 180, 0.927);
+                color:white;
+            }
+        
+            .join-button:active{
+                opacity:0.7;
+            }
+        
+        
+        .tweet-button{
+            background-color:rgb(63, 63, 198);
+            color:white;
+            border:none;
+            height:30px;
+            width:70px;
+            border-radius:18px;
+            font-weight:bold;
+            font-size:14px;
+            cursor:pointer;
+            margin-left:8px;
+            margin-right:8px;
+            transition:box-shadow 0.1s;
+            vertical-align:top;
+           
+        }
+        
+        .tweet-button:hover{
+        box-shadow:5px 5px 10px rgba(203, 200, 206, 0.8);}
+        
+        .tweet-button:active{
+        opacity:0.6;
+        }
+        
+        
+        .request-button{
+            background-color:black;
+            color:white;
+            border:none;
+            padding-top:8px;
+            padding-bottom:8px;
+            padding-right:16px;
+            padding-left:16px;
+            font-weight:bold;
+            transition:opacity 0.01s;
+            vertical-align:top;
+        }
+        
+        .request-button:hover{
+            opacity:0.8;
+        }
+        .request-button:active{
+        opacity:0.6;
+        }
+        
+        
+        .Addtocart-button{
+            background-color:rgb(255,216,20);
+           border:none;
+           border-radius:20px;
+           padding-top:10px;
+            padding-bottom:10px;
+            padding-right:60px;
+            padding-left:60px;
+        margin-top:20px;
+        cursor:pointer;
+        transition:background-color 0.1s;
+        }
+        
+        .Addtocart-button:hover{
+            background-color:rgb(231, 197, 31);
+        }
+        
+        .Addtocart-button:active{
+            background-color:rgb(181, 158, 43);
+        }
+        
+        
+        .bootstrap-button{
+        background-color:rgb(121, 82, 179);
+        padding-top:9px;
+            padding-bottom:9px;
+            padding-right:18px;
+            padding-left:18px;
+            color:white;
+           border-color:rgb(49, 4, 49);
+           border-style:solid;
+           border-width:1px;
+            border-radius:4px;
+            font-weight:bold;
+            margin-left:8px;
+            transition:background-color 0.1s;
+        }
+        
+        .bootstrap-button:hover{
+        background-color: rgb(89, 38, 165);;
+        }
+        
+        .bootstrap-button:active{
+        background-color: rgb(122, 96, 160);;
+        }
+        
+        
+        .Download-button{
+            margin-left:8px;
+            background-color:white;
+            padding-top:9px;
+            padding-bottom:9px;
+            padding-right:18px;
+            padding-left:18px;
+            color:rgb(99, 53, 168);
+            border-style:solid;
+           border-width:2px;
+           border-color:rgb(99, 21, 171);
+        font-weight:bold;
+        border-radius:4px;
+        transition:background-color 0.1s,color 0.1s,border-color 0.1s;
+        }
+        
+        .Download-button:hover{
+        background-color:rgb(87, 85, 85);
+        color:white;
+        border-color:black ;
+        }
+        .Download-button:active{
+            opacity:0.8;
+        }
+        
+        
+        .back-button{
+        padding-top:9px;
+        padding-bottom:9px;
+        padding-right:5px;
+        padding-left:5px;
+        border-width:1px;
+        border-radius:2px;
+        font-size:16px;
+        }
+        
+        
+        .search1{
+            margin-left:8px;
+        }
+        
+        
+        .next-button{
+            padding-top:9px;
+        padding-bottom:9px;
+        padding-right:5px;
+        padding-left:5px;
+        border-width:1px;
+        border-radius:2px;
+        font-size:16px;
+        margin-left:8px;
+        }
+        
+        
+        .stretch-button{
+            background-color:rgb(61, 165, 61);
+            margin-top:30px;
+            margin-left:20px;
+            color:white;
+            border-color:rgb(31, 121, 31);
+            border-style:solid;
+            padding-top:5px;
+            padding-bottom:5px;
+            padding-left:10px;
+            padding-right:10px;
+            font-weight:bold;
+            cursor:hand;
+            transition:padding-top 0.1s,
+            padding-bottom 0.1s,
+            padding-left 0.1s,
+            padding-right 0.1s,
+            font-size 0.1s;
+        
+        }
+        
+        .stretch-button:hover{
+            padding-top:10px;
+            padding-bottom:10px;
+            padding-left:20px;
+            padding-right:20px;
+            font-size:15px;
+        }
+        
+        .shadow-button {
+          background-color: rgb(61, 165, 61);
+          background-image: linear-gradient(to bottom, rgb(61, 165, 61), rgb(51, 145, 51));
+          margin-top: 30px;
+          margin-left: 20px;
+          color: white;
+          border-color: rgb(31, 121, 31);
+          border-style: solid;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          padding-left: 10px;
+          padding-right: 10px;
+          font-weight: bold;
+          cursor: hand;
+          transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        
+        .shadow-button:hover {
+          transform: translateY(-3px) scale(1.05);
+          box-shadow: 6px 6px 2px rgba(0, 0, 0, 0.1);
+        }
+        
+       .searchbar{
+        margin-left:40px;
+        font-size:20px;
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-left:10px;padding-right:10px;
+  border-radius:8px; 
+border-style:solid;
+    }
+
+    .searchbar:hover{
+       border-color:rgb(88, 169, 142);
+
+    }
+   
+    .searchgoogle{
+        display:block;
+        margin-top:90px;
+       padding:10px;
+       padding-right:80px;
+       font-size:20px;
+       width:500px;
+       border-color:rgb(204, 201, 201);
+       border-radius:20px;
+       border-style:solid;
+       box-shadow:10px 10px 20px rgb(135, 134, 134);
+    }
